@@ -109,6 +109,9 @@
 		"file.binary": {
 			"iconPath": "./src/file.binary.svg"
 		},
+		"file.db": {
+			"iconPath": "./src/file.db.svg"
+		},
 		"file.zip": {
 			"iconPath": "./src/file.zip.svg"
 		},
@@ -398,6 +401,10 @@
 		"sfd": "file.font",
 		"eot": "file.font",
 		"otd": "file.json",
+		"db": "file.db",
+		"fdb": "file.db",
+		"gdb": "file.db",
+		"sqlite": "file.db",
 		"bin": "file.binary",
 		"exe": "file.exe",
 		"dll": "file.lib",
