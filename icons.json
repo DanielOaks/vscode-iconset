@@ -181,6 +181,9 @@
 		"file.tsx": {
 			"iconPath": "./src/file.tsx.svg"
 		},
+		"file.ini": {
+			"iconPath": "./src/file.ini.svg"
+		},
 		"file.yaml": {
 			"iconPath": "./src/file.yaml.svg"
 		},
@@ -351,6 +354,7 @@
 		"toml": "file.toml",
 		"yml": "file.yaml",
 		"yaml": "file.yaml",
+		"ini": "file.ini",
 		"ss": "file.scheme",
 		"scm": "file.scheme",
 		"lisp": "file.lisp",
